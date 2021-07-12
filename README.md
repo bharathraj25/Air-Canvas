@@ -16,4 +16,4 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 
 Requirements: python3 , numpy , opencv installed on your system.
 
-<img src="https://github.com/bharathraj25/Air-Canvas/blob/1d8c882f11401b9bcc43deeedf153ae1f5b1d96b/SampleScreenshots/Sample.png" width="800" height="400">
+Sample Gif Link : https://media.giphy.com/media/pXLs2yeanbTFiUUeqW/giphy.gif
